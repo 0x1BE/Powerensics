@@ -20,14 +20,7 @@
 ```sh
 git clone https://github.com/0x1BE/Powerensics.ps1
 ```
-
-
-## Author
-
-👤 **Talal Salman**
-
-* Twitter: [@0x1BE](https://twitter.com/0x1BE)
-* Github: [@0x1BE](https://github.com/0x1BE)
+)
 
 ## 🤝 Contributing
 
