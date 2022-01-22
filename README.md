@@ -20,7 +20,7 @@
 ```sh
 git clone https://github.com/0x1BE/Powerensics.ps1
 ```
-)
+
 
 ## 🤝 Contributing
 
